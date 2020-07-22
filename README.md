@@ -4,7 +4,7 @@ This sample Jupyter Notebook is transforming delimited category pathes like
 
 **"Die-Cast & Toy Vehicles > Toy Vehicles & Accessories > Scaled Models > Vehicles"**
 
-into a d3js interactive sunburst graphic like this
+into a [d3js] interactive sunburst graphic like this
 
 ![Sunburst example][sunburst_example]
 
@@ -20,3 +20,4 @@ If you want to run the notebook (without Elasticsearch asccess) you can also exe
 [NBViewer]: https://nbviewer.jupyter.org/github/thweidemann/jupyter-d3-visualization-mashup/blob/master/d3_sunburst.ipynb
 [Binder]: https://mybinder.org/v2/gh/thweidemann/jupyter-d3-visualization-mashup/master?filepath=d3_sunburst.ipynb
 [sunburst_example]: https://github.com/thweidemann/jupyter-d3-visualization-mashup/blob/master/sunburst.png "Sunburst example"
+[d3js]: https://d3js.org/
