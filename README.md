@@ -1,6 +1,6 @@
 # jupyter-d3-visualization-mashup
 
-This sample Jupyter Notebook is transforming delimted category pathes like 
+This sample Jupyter Notebook is transforming delimited category pathes like 
 
 **"Die-Cast & Toy Vehicles > Toy Vehicles & Accessories > Scaled Models > Vehicles"**
 
